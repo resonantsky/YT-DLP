@@ -3,7 +3,7 @@
 
 Need a simple free-for-ever, no strings attached Youtube and other streaming services video downloader? 
 
-look no further. 
+Look no further. 
 
 A simple implementation of the python-based YT-DLP library.
 
