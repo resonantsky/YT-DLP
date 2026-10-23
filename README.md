@@ -8,6 +8,7 @@ A simple implementation of the python-based YT-DLP library.
 
 Needs a python venv, requirements.txt included.
 ```shell
+CD YT-DLP
 python -m venv venv
 ./venv/Scripts/Activate.ps1   # or ./venv/Scripts/activate.bat for CMD
 pip install -r requirements.txt
