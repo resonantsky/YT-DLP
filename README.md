@@ -7,7 +7,11 @@ A simple implementation of the python-based YT-DLP library.
 ### Installation
 
 Needs a python venv, requirements.txt included.
-
+```shell
+python -m venv venv
+./venv/Scripts/Activate.ps1   # or ./venv/Scripts/activate.bat for CMD
+pip install -r requirements.txt
+```
 #### yt-dlp.py
 
 This is the regular Youtube video puller  
