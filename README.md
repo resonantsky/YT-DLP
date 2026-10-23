@@ -16,5 +16,5 @@ This is the regular Youtube video puller
 #### yt-dlp-frag.py
 
 This is the puller for various other streaming sites that use video fragmentation to save space server-side.  
-`python yt-dlp.py http://www.video-site.com/video_url`
+`python yt-dlp-frag.py http://www.video-site.com/video_url`
 
