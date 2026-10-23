@@ -1,7 +1,7 @@
 # YT-DLP
 ## Simple python youtube video puller
 
-Need a simple free-for-ever, no strings attached Youtube and other streaming services video downloader? 
+Need a simple free-for-ever, no strings attached Youtube, Social (x, facebook) and other streaming services video downloader? 
 
 Look no further. 
 
