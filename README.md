@@ -2,6 +2,7 @@
 ## Simple python youtube video puller
 
 Need a simple free-for-ever, no strings attached Youtube and Other streaming services video downloader? look no further.
+A simple implementation of the python-based YT-DLP library.
 
 ### Installation
 
